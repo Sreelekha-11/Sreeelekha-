@@ -10,8 +10,8 @@
 <p> - 🎓 Studying <b>B-Tech 3rd Year</b> </p> 
 <p> - 🤝 Open to collabration on <b>Frontend Projects</b></p>
 <p> - 🎯 Focused on improving UI/UX and user experience.</p> 
- <p>- 🚀 Building real-world Projects.</p>
-  - 💭 Approach me at thippireddysreelekha@gmail.com
+<p> - 🚀 Building real-world Projects</p>
+   <p> - 💭 Approach me at <a href="">thippireddysreelekha@gmail.com</a></p>
 <br>
 
 ## 🌐 Socials:
