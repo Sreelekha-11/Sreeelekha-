@@ -11,7 +11,7 @@
 <p> - 🤝 Open to collabration on <b>Frontend Projects</b></p>
 <p> - 🎯 Focused on improving UI/UX and user experience.</p> 
 <p> - 🚀 Building real-world Projects</p>
-   <p> - 💭 Approach me at <a href="">thippireddysreelekha@gmail.com</a></p>
+   <p> - 💭 Approach me at <a href="mailto:thippireddysreelekha@gmail.com">thippireddysreelekha@gmail.com</a></p>
 <br>
 
 ## 🌐 Socials:
